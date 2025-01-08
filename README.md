@@ -10,8 +10,9 @@ This project is an ESP32-based WiFi-connected plant watering system that automat
 ```cpp
 C:.
 ├───.vscode
+├───pio. // Dependencies
 ├───include
-├───lib // Dependencies
+├───lib 
 ├───src // Main source code
 └───test
 ```
