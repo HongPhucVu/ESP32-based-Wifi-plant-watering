@@ -5,3 +5,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-green)
 
 This project is an ESP32-based WiFi-connected plant watering system that automates plant care. It uses soil moisture sensors, an air quality sensor, and a pump to irrigate plants when moisture falls below a set threshold.
+
+## Folder Structure 
+```cpp
+C:.
+├───.vscode
+├───include
+├───lib // Dependencies
+├───src // Main source code
+└───test
+```
