@@ -1,0 +1,29 @@
+{
+    "name": "SHT1x", 
+    "keywords": [
+        "sensor", 
+        "humidity", 
+        "temperature"
+    ], 
+    "description": "Provides a simple interface to the SHT1x series (SHT10, SHT11, SHT15) and SHT7x series (SHT71, SHT75) temperature / humidity sensors from Sensirion", 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/practicalarduino/SHT1x.git"
+    }, 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr"
+    ], 
+    "version": "be7042c3e3", 
+    "authors": [
+        {
+            "email": "practicalarduino@oxer.com.au", 
+            "url": "https://github.com/practicalarduino", 
+            "maintainer": false, 
+            "name": "Practical Arduino - The Book"
+        }
+    ], 
+    "id": 86
+}
