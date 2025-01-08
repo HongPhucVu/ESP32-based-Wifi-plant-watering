@@ -16,7 +16,7 @@ char auth[] = "JkJ3hAJmwij2h1XpTJPpkDFBGbOvE_uh";
 char ssid[] = "TP-LINK_6E26";
 char pass[] = "12201662";
 BlynkTimer timer;
-// chua test chuc nang
+// untested
 
 // button
 #define none_button   0
